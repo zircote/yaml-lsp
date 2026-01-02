@@ -1,5 +1,11 @@
 # yaml-lsp
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Claude Plugin](https://img.shields.io/badge/claude-plugin-orange.svg)](https://docs.anthropic.com/en/docs/claude-code/plugins)
+[![Marketplace](https://img.shields.io/badge/marketplace-zircote--lsp-purple.svg)](https://github.com/zircote/lsp-marketplace)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)](https://yaml.org/)
+
 A Claude Code plugin providing comprehensive YAML development support through:
 
 - **yaml-language-server** integration for IDE-like features
